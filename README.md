@@ -18,6 +18,7 @@ The application is deployed to Render and can be accessed at [Note Taker](https:
 
 ## Links
 [Repository](https://github.com/Nihsad/note-taker)
+
 [Deployed Application](https://note-taker-ipvr.onrender.com)
 
 ## License
