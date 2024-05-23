@@ -5,10 +5,10 @@ The purpose of this assignment was to develop the backend for a note-taking app 
 
 ## Table of Contents
 
-Deployment
-Screenshots
-Links
-License
+[Deployment](#Deployment)
+[Screenshots](#Screenshots)
+[Links](#Links)
+[License](#license)
 
 ## Deployment
 The application is deployed to Render and can be accessed at [Note Taker](https://note-taker-ipvr.onrender.com).
