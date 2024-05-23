@@ -6,8 +6,11 @@ The purpose of this assignment was to develop the backend for a note-taking app 
 ## Table of Contents
 
 [Deployment](#Deployment)
+
 [Screenshots](#Screenshots)
+
 [Links](#Links)
+
 [License](#license)
 
 ## Deployment
